@@ -32,7 +32,6 @@ header {
   display: flex;
   justify-content: center;
   width: 800px;
-  height: 600px;
   flex-wrap: wrap;
   margin: 50px auto;
 }
@@ -107,6 +106,30 @@ header {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
+}
+
+.box13 {
+  width: 200px;
+  height: 200px;
+  background-color: #ffe6ff;
+}
+
+.box14 {
+  width: 200px;
+  height: 200px;
+  background-color: #ffccff;
+}
+
+.box15 {
+  width: 200px;
+  height: 200px;
+  background-color: #ffb3ff;
+}
+
+.box16 {
+  width: 200px;
+  height: 200px;
+  background-color: #ff99ff;
 }
 
 footer {
